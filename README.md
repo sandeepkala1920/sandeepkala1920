@@ -1,4 +1,3 @@
-
 <!--
   Hi, I'm Sandeep Kala 👋
   GitHub Profile README
@@ -38,9 +37,22 @@ const sandeep = {
     location: "India 🇮🇳",
     education: "B.Tech Computer Science Engineering",
     role: "Full Stack Developer",
-    currentlyLearning: ["AI Automation", "Machine Learning", "LLMs"],
-    askMeAbout: ["React", "JavaScript", "Python", "Web Development"],
-    hobbies: ["Building Projects", "Learning Tech", "Exploring AI"],
+    currentlyLearning: [
+        "AI Automation",
+        "Machine Learning",
+        "LLMs"
+    ],
+    askMeAbout: [
+        "React",
+        "Python",
+        "JavaScript",
+        "Web Development"
+    ],
+    hobbies: [
+        "Building Projects",
+        "Learning Tech",
+        "Exploring AI"
+    ],
     goal: "Build useful products with code and AI 🚀"
 };
 ```
@@ -97,8 +109,8 @@ const sandeep = {
 
 <div align="center">
 
-<a href="https://github.com/sandeepkala1920">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepkala1920&repo=AI-Payment-Intelligence-Layer&theme=tokyonight" />
+<a href="https://github.com/sandeepkala1920/AI-Payment-Intelligence-Layer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepkala1920&repo=AI-Payment-Intelligence-Layer&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -109,11 +121,15 @@ const sandeep = {
 
 **Tech Stack:** Python • FastAPI • Razorpay APIs • AI/LLMs
 
+---
+
 ### 🌍 AI Tourism Platform
 
 > An AI-powered digital tourism platform with itinerary planning, multilingual chatbot, maps, and local tourism services.
 
 **Tech Stack:** HTML • CSS • JavaScript • Python • AI
+
+---
 
 ### 🧠 Academic Stress & Cognitive Load Detection
 
@@ -127,43 +143,35 @@ const sandeep = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepkala1920&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sandeepkala1920&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkala1920&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkala1920&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=sandeepkala1920&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=sandeepkala1920&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake Game
+# 🐍 My Contribution Game
 
-> Watch the snake eat your GitHub contributions! 🟢
+### Watch the Snake eat my GitHub contributions! 🎮
 
-<div align="center">
+<p align="center">
 
-  <img src="https://raw.githubusercontent.com/sandeepkala1920/sandeepkala1920/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+  <img
+    src="https://raw.githubusercontent.com/sandeepkala1920/sandeepkala1920/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 
-</div>
-
----
-
-## 🕹️ Contribution Arcade
-
-> My GitHub contributions are my game points! 🎮
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="100%"/>
-
-</div>
+</p>
 
 ---
 
@@ -171,7 +179,35 @@ const sandeep = {
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepkala1920&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepkala1920&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sandeepkala1920&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
+
+</div>
+
+---
+
+## 🔥 My Coding Journey
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║       💻 CODE  →  🤖 AI  →  🚀 BUILD        ║
+║                                              ║
+║       Learn • Build • Break • Fix • Repeat   ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -181,17 +217,17 @@ const sandeep = {
 
 <div align="center">
 
-  <a href="mailto:sandeepkala1920@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:sandeepkala1920@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/sandeepkala1920">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/sandeepkala1920">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -201,7 +237,7 @@ const sandeep = {
 
 ### 💙 Thanks for visiting my profile!
 
-**Let's build something amazing together 🚀**
+### 🚀 Let's build something amazing together!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=100&section=footer" width="100%"/>
 
